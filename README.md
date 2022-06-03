@@ -1,1 +1,1 @@
-# Image-to-png-GUI
+# Video-to-png-GUI
