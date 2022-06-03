@@ -16,6 +16,7 @@ To deploy this project run
 
 
 ## Usage
+- Open any IDLE and execute the video-to-png.py file 
 ![App Screenshot](https://github.com/vavinash992/Video-to-png-GUI/blob/main/images/image.IR63M1.png)
 
 
