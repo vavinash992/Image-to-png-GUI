@@ -21,4 +21,7 @@ To deploy this project run
 
 ![App Screenshot](https://github.com/vavinash992/Video-to-png-GUI/blob/main/images/image.IR63M1.png)
 
+- click on browse to select the location of the video file
+- 
+
 
